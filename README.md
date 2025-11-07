@@ -35,17 +35,14 @@ It calculates total costs, profit margins, and visualizes data using Python and 
 
 ## Power BI Dashboard Preview
 
-### Total Cost Comparison and 
-![Total Cost Chart](dashboard/screenshots/total_cost_chart.png)
-
-### Profit Margin per Project
-![Profit Margin Chart](dashboard/screenshots/profit_margin_chart.png)
+### Dashboard images
+![Dashboard](dashboard/screenshots/dashboard.png)
 
 ### Total Cost Comparison and Profit Margin per Project
 ![Profit Margin Chart](dashboard/screenshots/total_cost_chart.png)
 
-### KPI Cards
-![KPI Cards](dashboard/screenshots/kpi_cards.png)
+### Project status summary and work type distribution
+![KPI Cards](dashboard/screenshots/Project_status_summary.png)
 
 ## Key Insights
 
