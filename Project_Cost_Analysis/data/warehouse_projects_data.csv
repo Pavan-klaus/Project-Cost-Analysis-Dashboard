@@ -1,0 +1,31 @@
+Project Name,Client,Location,Work Type,Work Description,Material Cost,Labor Cost,Equipment Cost,Total Cost,Profit Margin (%),Profit Value,Start Date,End Date,Project Status
+Dunzo Warehouse Project 1,Dunzo,Bangalore,Electrical,AC Point Wiring,722402,482386,163890,1368678,18.96,259501.35,07-09-2024,26-01-2025,Pending
+Flipkart Warehouse Project 2,Flipkart,Coimbatore,Electrical,Flooring,967098,780809,100472,1848379,15.45,285574.56,06-07-2024,17-12-2024,In Progress
+Hyperlocal Warehouse Project 3,Hyperlocal,Hyderabad,Electrical,Flooring,1406945,680813,233023,2320781,15.61,362273.91,11-08-2024,19-12-2024,Pending
+Flipkart Warehouse Project 4,Flipkart,Chennai,Civil,DB Panel Setup,947875,342114,254164,1544153,10.72,165533.2,07-08-2024,24-10-2024,In Progress
+BigBasket Warehouse Project 5,BigBasket,Kochi,Electrical,AC Point Wiring,988768,629149,129513,1747430,9.54,166704.82,09-09-2024,07-03-2025,Pending
+Zepto Warehouse Project 6,Zepto,Chennai,Electrical,Mezzanine Construction,1167081,489297,159975,1816353,6.72,122058.92,08-10-2024,14-12-2024,Pending
+Zepto Warehouse Project 7,Zepto,Mumbai,Electrical,Mezzanine Construction,1016819,741766,237196,1995781,15.71,313537.2,17-03-2024,24-06-2024,Completed
+Flipkart Warehouse Project 8,Flipkart,Mysore,Electrical,DB Panel Setup,1096830,707297,268032,2072159,5.01,103815.17,17-07-2024,18-12-2024,Completed
+Hyperlocal Warehouse Project 9,Hyperlocal,Pune,Electrical,Racks Installation,1432098,356728,199479,1988305,19.13,380362.75,21-05-2024,20-07-2024,Completed
+BigBasket Warehouse Project 10,BigBasket,Mysore,Electrical,Lighting Work,739735,608165,264684,1612584,12.35,199154.12,17-02-2024,30-04-2024,Completed
+Flipkart Warehouse Project 11,Flipkart,Hyderabad,Electrical,DB Panel Setup,702230,332245,290139,1324614,6.05,80139.15,10-01-2024,11-04-2024,Pending
+Hyperlocal Warehouse Project 12,Hyperlocal,Chennai,Civil,Cabin Setup,1405509,351522,261527,2018558,8.15,164512.48,27-10-2024,23-03-2025,Pending
+Zepto Warehouse Project 13,Zepto,Goa,Electrical,False Ceiling,1034296,392895,176359,1603550,8.38,134377.49,04-01-2024,21-06-2024,Completed
+Swiggy Warehouse Project 14,Swiggy,Delhi,Electrical,Cold Room Installation,1380122,779914,209584,2369620,20,473924,24-02-2024,26-04-2024,Completed
+Zepto Warehouse Project 15,Zepto,Pune,Electrical,Cold Room Installation,1036530,796684,210884,2044098,16.77,342795.23,06-05-2024,23-09-2024,Completed
+Dunzo Warehouse Project 16,Dunzo,Pune,Civil,Wiring and Fittings,1132839,666474,135232,1934545,19.63,379751.18,05-01-2024,11-04-2024,Pending
+Hyperlocal Warehouse Project 17,Hyperlocal,Hyderabad,Civil,Racks Installation,1002248,493799,150218,1646265,14.06,231464.86,21-01-2024,26-04-2024,Completed
+Swiggy Warehouse Project 18,Swiggy,Goa,Electrical,False Ceiling,955630,465073,261855,1682558,9.19,154627.08,28-08-2024,28-10-2024,Pending
+Hyperlocal Warehouse Project 19,Hyperlocal,Goa,Electrical,Wiring and Fittings,1282526,769927,282128,2334581,8.15,190268.35,24-04-2024,17-10-2024,Completed
+BigBasket Warehouse Project 20,BigBasket,Bangalore,Electrical,Racks Installation,1386091,646693,243833,2276617,17.06,388390.86,28-02-2024,13-05-2024,In Progress
+Flipkart Warehouse Project 21,Flipkart,Pune,Civil,Wiring and Fittings,1348823,460213,111761,1920797,7.58,145596.41,08-06-2024,07-10-2024,Completed
+Zepto Warehouse Project 22,Zepto,Mysore,Civil,Flooring,704178,708538,161709,1574425,13.68,215381.34,28-09-2024,07-12-2024,In Progress
+Dunzo Warehouse Project 23,Dunzo,Mysore,Electrical,Lighting Work,1132259,319953,296657,1748869,17.33,303079,07-04-2024,25-06-2024,Completed
+Flipkart Warehouse Project 24,Flipkart,Hyderabad,Electrical,Lighting Work,1019622,547596,208818,1776036,9.92,176182.77,27-01-2024,22-04-2024,In Progress
+Flipkart Warehouse Project 25,Flipkart,Delhi,Civil,DB Panel Setup,1299903,346397,193744,1840044,5.62,103410.47,18-10-2024,16-04-2025,In Progress
+Swiggy Warehouse Project 26,Swiggy,Pune,Civil,Cold Room Installation,1494867,791733,107523,2394123,7.46,178601.58,27-10-2024,09-01-2025,Pending
+Swiggy Warehouse Project 27,Swiggy,Delhi,Electrical,Racks Installation,1182653,612672,195443,1990768,7.01,139552.84,11-02-2024,21-07-2024,Pending
+Flipkart Warehouse Project 28,Flipkart,Chennai,Electrical,Cabin Setup,1318896,752433,191795,2263124,13.14,297374.49,08-01-2024,03-04-2024,Completed
+Swiggy Warehouse Project 29,Swiggy,Chennai,Electrical,Racks Installation,1237785,669713,123697,2031195,5.25,106637.74,15-10-2024,04-01-2025,In Progress
+Dunzo Warehouse Project 30,Dunzo,Mumbai,Electrical,Lighting Work,800419,666743,176128,1643290,8.49,139515.32,27-02-2024,07-08-2024,Pending
