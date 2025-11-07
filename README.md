@@ -42,7 +42,7 @@ It calculates total costs, profit margins, and visualizes data using Python and 
 ![Profit Margin Chart](dashboard/screenshots/total_cost_chart.png)
 
 ### Project status summary and work type distribution
-![KPI Cards](dashboard/screenshots/Project_status_summary.png)
+![Project status summary](dashboard/screenshots/Project_status_summary.png)
 
 ## Key Insights
 
